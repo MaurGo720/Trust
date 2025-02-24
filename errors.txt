@@ -32,5 +32,5 @@ and File "game/scripts/script.rpy", line 60:
 label final_sacrificio:
 
 
-Ren'Py Version: Ren'Py 8.3.4.24120703
-Mon Feb 24 11:23:07 2025
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Mon Feb 24 12:44:39 2025
