@@ -1,0 +1,36 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label start is defined twice, at File "game/script.rpyc", line 12:
+
+and File "game/scripts/script.rpy", line 12:
+label start:
+
+
+The label investigacion is defined twice, at File "game/script.rpyc", line 33:
+
+and File "game/scripts/script.rpy", line 33:
+label investigacion:
+
+
+The label escape is defined twice, at File "game/script.rpyc", line 42:
+
+and File "game/scripts/script.rpy", line 42:
+label escape:
+
+
+The label final_escape_sola is defined twice, at File "game/script.rpyc", line 56:
+
+and File "game/scripts/script.rpy", line 56:
+label final_escape_sola:
+
+
+The label final_sacrificio is defined twice, at File "game/script.rpyc", line 60:
+
+and File "game/scripts/script.rpy", line 60:
+label final_sacrificio:
+
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Mon Feb 24 11:23:07 2025
